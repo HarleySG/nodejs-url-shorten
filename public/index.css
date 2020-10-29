@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+:root {
+  --fz: 17px;
+}
+
+body:empty {
+  background: #000;
+}
+
+body {
+  font-family: sans-serif;
+}
